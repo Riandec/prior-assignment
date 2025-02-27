@@ -3,7 +3,7 @@
 raw data link: https://storage.googleapis.com/maoz-event/rawdata.txt
 
 ไฟล์ประกอบด้วย 1) โค้ดภาษา Java และ 2) ไฟล์ Jar สำหรับจัดการข้อมูล JSON โดยวิธีการรันใช้คำสั่ง <br>
->javac -cp ".;lib/json-20250107.jar" PriorAssignment.java
+>javac -cp ".;lib/json-20250107.jar" PriorAssignment.java <br>
 >java -cp ".;lib/json-20250107.jar" PriorAssignment
 
 ## จัดทำโดย
