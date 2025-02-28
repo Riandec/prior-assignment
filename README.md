@@ -13,6 +13,7 @@ Output
 
 >addressOut = [voyage-embed-node-2, http-client-adapter-verticle-node-4, voyage-transform-node-3, to-publish-verticle-node-10, line-node-7, facebook-node-8, discord-node-9, output-node-10, '', '', '', '']
 
+
 ### จัดทำโดย
 นางสาวพิชญา พิมพ์มหาศิริ (มีน) <br>
 นักศึกษาวิทยาการคอมพิวเตอร์ ชั้นปีที่ 3 <br>
