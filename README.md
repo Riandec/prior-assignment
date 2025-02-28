@@ -9,9 +9,9 @@ raw data link: https://storage.googleapis.com/maoz-event/rawdata.txt
 Output
 >Nodes = [input, org.maoz.prehandle.workers.neoai.aiclient.embedding.VoyageVerticle, org.maoz.prehandle.workers.neoai.httpclient.HttpClientAdapterVerticle, org.maoz.prehandle.workers.neoai.aiclient.embedding.util.VoyageTransformVerticle, org.maoz.prehandle.workers.neoai.ebtransform.ToPublishVerticle , org.maoz.prehandle.workers.neoai.notify.LineVerticle, org.maoz.prehandle.workers.neoai.notify.FacebookVerticle, org.maoz.prehandle.workers.neoai.notify.DiscordVerticle, org.maoz.prehandle.workers.neoai.output.OutputVerticle]
 
-addressIn = ['', voyage-embed-node-2, http-client-adapter-verticle-node-4, voyage-transform-node-3, to-publish-verticle-node-10, line-node-7, facebook-node-8, discord-node-9, output-node-10]
+>addressIn = ['', voyage-embed-node-2, http-client-adapter-verticle-node-4, voyage-transform-node-3, to-publish-verticle-node-10, line-node-7, facebook-node-8, discord-node-9, output-node-10]
 
-addressOut = [voyage-embed-node-2, http-client-adapter-verticle-node-4, voyage-transform-node-3, to-publish-verticle-node-10, line-node-7, facebook-node-8, discord-node-9, output-node-10, '',> '', '', '']
+>addressOut = [voyage-embed-node-2, http-client-adapter-verticle-node-4, voyage-transform-node-3, to-publish-verticle-node-10, line-node-7, facebook-node-8, discord-node-9, output-node-10, '',> '', '', '']
 
 ### จัดทำโดย
 นางสาวพิชญา พิมพ์มหาศิริ (มีน) <br>
